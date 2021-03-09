@@ -4,7 +4,7 @@
 This simple pyramid game is written in Python.
 
 ## Functionality
-When run, this program firstly prompts input for number of lines you want to create. After inputting the number and hitting Enter, it displays the pyramid with numbers. The screenshot below is an example when inputting '15'. 
+When run, this program prompts input for number of lines you want to create. After inputting the number and hitting Enter, it displays the pyramid with numbers. The screenshot below is an example when inputting '15'. 
 
 ## Screenshot
 ![alt text](https://github.com/yuma3496/Capstone_Project_2/blob/main/Capstone_Project_2.png)
